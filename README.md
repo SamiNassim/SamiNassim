@@ -1,6 +1,6 @@
 Bonjour, moi c'est Sami, bienvenue sur mon profil GitHub ! </br>
 Je viens de terminer ma formation de développeur web chez OpenClassrooms. </br>
-Je suis actuellement à la recherche d'une alternance pour préparer une formation <strong>Java</strong> !</br>
+Je suis actuellement à la recherche d'une <strong>alternance en tant que développeur</strong> !</br>
 Je suis aussi ouvert à tout autre type de contrat.
 
 Mon profil GitHub regroupe pour l'instant principalement les projets que j'ai créé dans le cadre de ma formation chez OpenClassrooms. </br>
