@@ -3,7 +3,7 @@ Je viens de terminer ma formation de développeur web chez OpenClassrooms. </br>
 Je suis actuellement à la recherche d'une <strong>alternance en tant que développeur</strong> !</br>
 Je suis aussi ouvert à tout autre type de contrat.
 
-J'ai récemment travailler sur :
+J'ai récemment travaillé sur :
 
 -  [Republike - Test technique](https://github.com/SamiNassim/technical-test-republike) pour une startup visant à créer un réseau social d'un nouveau genre !
 
