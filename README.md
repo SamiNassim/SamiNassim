@@ -1,17 +1,11 @@
 Bonjour, moi c'est Sami, bienvenue sur mon profil GitHub ! </br>
-Je viens de terminer ma formation de développeur web chez OpenClassrooms. </br>
-Je suis actuellement à la recherche d'une <strong>alternance en tant que développeur</strong> !</br>
-Je suis aussi ouvert à tout autre type de contrat.
-
-J'ai récemment travaillé sur :
-
--  [Republike - Test technique](https://github.com/SamiNassim/technical-test-republike) pour une startup visant à créer un réseau social d'un nouveau genre !
+Je suis actuellement à la recherche d'un <strong>poste en tant que développeur</strong> !</br>
 
 Je travail actuellement sur :
 
-- CVM : un site de recontre (projet perso, repo privé pour le moment)
+- [Hawwa](https://hawwa.app) : mon premier (gros) projet perso : un site de rencontre pour les relations sérieuses / mariages !
 
-Mon profil GitHub regroupe pour l'instant principalement les projets que j'ai créé dans le cadre de ma formation chez OpenClassrooms. </br>
+N'hésitez pas à jeter un oeil sur [mon portfolio !](https://saminassim.dev)<br/>
 Pour toute opportunité ou si vous souhaitez simplement discuter avec moi, n'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/sami-bououdine/">LinkedIn<a/>.
 
 <!---
