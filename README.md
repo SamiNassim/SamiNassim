@@ -1,12 +1,16 @@
-Bonjour, moi c'est Sami, bienvenue sur mon profil GitHub ! </br>
-Je suis actuellement à la recherche d'un <strong>poste en tant que développeur</strong> !</br>
+Hi, I'm Sami, welcome to my GitHub profile! </br>
+I'm currently looking for a <strong>web developer</strong> position! (France or full remote)</br>
 
-Je travail actuellement sur :
+I'm currently working on :
 
-- [Hawwa](https://hawwa.app) : mon premier (gros) projet perso : un site de rencontre pour les relations sérieuses / mariages !
+- Chroniq: my first mobile app! I'm using React Native (Expo) for the frontend and NestJS for the backend. More info coming soon... (Private repo for now)
 
-N'hésitez pas à jeter un oeil sur [mon portfolio !](https://saminassim.dev)<br/>
-Pour toute opportunité ou si vous souhaitez simplement discuter avec moi, n'hésitez pas à me contacter sur <a href="https://www.linkedin.com/in/sami-bououdine/">LinkedIn<a/>.
+I recently worked on:
+
+- [Hawwa](https://hawwa.app): my first (big) personal project: a dating website for serious relationships (marriage)!
+
+Feel free to take a look at [my portfolio!](https://saminassim.dev)<br/>
+For any opportunities or if you simply want to chat, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/sami-bououdine).
 
 <!---
 SamiNassim/SamiNassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
