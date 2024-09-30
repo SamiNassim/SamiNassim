@@ -3,7 +3,7 @@ I'm currently looking for a <strong>web developer</strong> position! (France or 
 
 I'm currently working on :
 
-- Chroniq: my first mobile app! I'm using React Native (Expo) for the frontend and NestJS for the backend. More info coming soon... (Private repo for now)
+- [Chroniq](https://github.com/SamiNassim/chroniq-backend): my first mobile app! I'm using React Native (Expo) for the frontend and NestJS for the backend.
 
 I recently worked on:
 
