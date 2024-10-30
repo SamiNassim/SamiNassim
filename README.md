@@ -3,11 +3,7 @@ I'm currently looking for a <strong>web developer</strong> position! (France or 
 
 I'm currently working on :
 
-- [Chroniq](https://github.com/SamiNassim/chroniq-backend): my first mobile app! I'm using React Native (Expo) for the frontend and NestJS for the backend.
-
-I recently worked on:
-
-- [Hawwa](https://hawwa.app): my first (big) personal project: a dating website for serious relationships (marriage)!
+- Learning Golang! 
 
 Feel free to take a look at [my portfolio!](https://saminassim.dev)<br/>
 For any opportunities or if you simply want to chat, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/sami-bououdine).
