@@ -5,7 +5,6 @@ I'm currently working on :
 
 - Learning Golang! (Go)
 
-Feel free to take a look at [my portfolio!](https://saminassim.dev)<br/>
 For any opportunities or if you simply want to chat, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/sami-bououdine).
 
 <!---
