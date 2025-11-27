@@ -1,7 +1,7 @@
-Hi, I'm Sami, welcome to my GitHub profile! </br>
-I'm currently looking for a <strong>web developer</strong> position! (France or full remote)</br>
-
-For any opportunities or if you simply want to chat, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/sami-bououdine).
+Salut, je suis Sami, bienvenue sur mon profil GitHub ! <br>
+Je suis actuellement à la recherche d’un poste de développeur web en CDI ! (France ou full remote) <br>
+<br>
+Pour toute opportunité ou si vous souhaitez simplement échanger, n’hésitez pas à me contacter sur [LinkedIn](https://www.linkedin.com/in/sami-bououdine).
 
 <!---
 SamiNassim/SamiNassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
